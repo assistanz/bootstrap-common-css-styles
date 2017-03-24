@@ -28,11 +28,11 @@ We provide BOWER and SASS support.
 
 ## Bower Support
 
-bower install common-css-styles --save
+bower install bootstrap-common-css-styles --save
 
 or
 
-"common-css-styles" : "*"
+"bootstrap-common-css-styles" : "*"
 
 ## Sass Support
-@import "path-to-your-folder/_common-css-styles"
+@import "path-to-your-folder/_bootstrap-common-css-styles"
